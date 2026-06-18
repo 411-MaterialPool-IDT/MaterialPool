@@ -1,3 +1,4 @@
+// src/types/material.ts
 export interface Material {
   id: string;
   nombre: string;
@@ -6,4 +7,5 @@ export interface Material {
   stock: number;
   unidad_medida: string;
   taller_id?: string;
+  imagen_url?: string; 
 }
