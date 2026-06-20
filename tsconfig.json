@@ -11,6 +11,7 @@
     "verbatimModuleSyntax": true,
     /* Strictness */
     "strict": true,
+    "types": ["jest"],
     "noUncheckedIndexedAccess": true,
     "checkJs": true,
     /* Bundled projects */
